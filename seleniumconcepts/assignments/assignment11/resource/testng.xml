@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Swag Labs Checkout Order">
+    <test name="Product Checkout Functionality">
+        <classes>
+            <class name="com.delta.kalpana.seleniumconcepts.assignments.assignment11.testclass.TestSwagLabsCheckoutOrder"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EMI Calculator">
+    <test name = "EMI Calculation Functionality">
+        <classes>
+            <class name="com.delta.kalpana.seleniumconcepts.assignments.assignment12.testscripts.TestEmiCalculator"/>
+        </classes>
+    </test>
+</suite>

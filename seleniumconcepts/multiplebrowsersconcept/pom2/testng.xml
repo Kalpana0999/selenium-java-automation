@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="Multiple Browsers">
+        <parameter name="browserName" value="edge"></parameter>
+        <classes>
+            <class name="com.delta.kalpana.seleniumconcepts.multiplebrowsersconcept.pom2.TestMultipleBrowsers"/>
+        </classes>
+    </test>
+</suite>
